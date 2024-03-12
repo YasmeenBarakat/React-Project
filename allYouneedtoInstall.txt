@@ -1,0 +1,17 @@
+
+install tailwind
+install Flowbite React 
+React-Router-dom
+install React Icons
+npm i react-quill
+
+///////////////////////Backend//////////////////////
+ npm i express 
+ install Nodemon
+ install mongoose
+ npm i dotenv
+ npm i bcryptjs
+ npm i jsonwebtoken
+npm i redux-persist
+
+npm install firebase ===>to make sign with google
